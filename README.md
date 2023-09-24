@@ -1,2 +1,2 @@
 # PruebaRestToken
-Prueba para comprender como funciona un servicio REST con tokens en Spring Boot
+Prueba para comprender como funciona un servicio REST mediante tokens en Spring Boot
